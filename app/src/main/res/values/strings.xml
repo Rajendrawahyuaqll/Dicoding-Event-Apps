@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dicoding Event</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming_event">Upcoming</string>
+    <string name="title_finished_event">Finished</string>
+    <string name="title_dicodingEvent">Dicoding Event</string>
+    <string name="title_recommendation_event">Recommendation event for you!</string>
+    <string name="search_event">Search Event</string>
+    <string name="image_event">Event Picture</string>
+    <string name="title_detail">Detail Event</string>
+    <string name="go_to_event">Go to Event</string>
+    <string name="event_time">Time: %1$s</string>
+    <string name="quota_remaining">Remaining quota: %1$d</string>
+    <string name="refresh">Refresh</string>
+</resources>
